@@ -1,0 +1,16 @@
+# Virtual Environments
+g1_ai_env/
+venv/
+.env
+
+# C++ Build artifacts
+build/
+bin/
+*.o
+*.out
+
+# Data & Media
+*.jpg
+*.png
+*.mp4
+__pycache__/
